@@ -16,7 +16,7 @@ easy-thumbnails==2.7
 fake-useragent==0.1.11
 gunicorn==19.9.0
 idna==2.8
-lxml==4.5.0
+lxml==4.6.2
 parse==1.14.0
 pilkit==2.0
 Pillow==6.2.1
